@@ -1,0 +1,1 @@
+This repository contains a common error encountered when using React Router Dom: a missing import statement for the Link component. The bug.js file demonstrates the error, while bugSolution.js provides the corrected code with the necessary import added.
